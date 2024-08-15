@@ -25,32 +25,6 @@ Simple program to increase YouTube views written in Python. Works with live stre
 
 
 
-# Topics
-[Requirements](https://github.com/MShawon/YouTube-Viewer#requirements)  
-[New Update](https://github.com/MShawon/YouTube-Viewer#new-update)  
-[Features](https://github.com/MShawon/YouTube-Viewer#features)   
-[Proxies](https://github.com/MShawon/YouTube-Viewer#proxies)    
-&ensp;&emsp;[Free Proxy](https://github.com/MShawon/YouTube-Viewer#free-proxy)  
-&ensp;&emsp;[Premium Proxy](https://github.com/MShawon/YouTube-Viewer#premium-proxy)  
-&ensp;&emsp;[Rotating Proxy](https://github.com/MShawon/YouTube-Viewer#rotating-proxy)  
-[HTTP API](https://github.com/MShawon/YouTube-Viewer#http-api)  
-[Config.json](https://github.com/MShawon/YouTube-Viewer#configjson)  
-[Urls](https://github.com/MShawon/YouTube-Viewer#urls)    
-[Search](https://github.com/MShawon/YouTube-Viewer#search)    
-[Live Stream](https://github.com/MShawon/YouTube-Viewer#live-stream)    
-[YouTube Music](https://github.com/MShawon/YouTube-Viewer#youtube-music)    
-[Fast VPS](https://github.com/MShawon/YouTube-Viewer#fast-vps-with-unlimited-traffic)         
-[Windows](https://github.com/MShawon/YouTube-Viewer#windows)  
-&ensp;&emsp;[Binary Release](https://github.com/MShawon/YouTube-Viewer#binary-release)  
-&ensp;&emsp;[Installation](https://github.com/MShawon/YouTube-Viewer#installation)  
-&ensp;&emsp;[Usage](https://github.com/MShawon/YouTube-Viewer#usage)  
-[Linux / Mac](https://github.com/MShawon/YouTube-Viewer#linux--mac)  
-&ensp;&emsp;[Installation](https://github.com/MShawon/YouTube-Viewer#installation-1)  
-&ensp;&emsp;[Usage](https://github.com/MShawon/YouTube-Viewer#usage)  
-[Best Practices](https://github.com/MShawon/YouTube-Viewer#usage-1)  
-[Issues](https://github.com/MShawon/YouTube-Viewer#issues)  
-[Credits](https://github.com/MShawon/YouTube-Viewer#credits)  
-
 
 
 # Requirements
